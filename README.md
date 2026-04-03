@@ -8,19 +8,11 @@ Number Base Converter
 
 Each program runs in a loop and behaves like a small terminal application.
 
-Requirements
-Go installed (go version)
-
-Download Go: https://go.dev/dl/
-
 How to Run
 
-Clone or download the project.
-
+Clone or download the project
 go run main.go
-
 Or run each tool separately depending on the file name:
-
 go run formatter.go
 go run calculator.go
 go run converter.go
@@ -43,7 +35,6 @@ exit	Quit program
 Example
 Enter text: my head is spinning
 choose upper, lower, cap, or title: title
-
 My Head Is Spinning
 Paul Calculator
 
